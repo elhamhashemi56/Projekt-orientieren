@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+
+}
+
+
+.kontakt-formular{
+
+margin-left: 10px;
+margin-right: 50px;
+margin-top: 10px;
+border-radius: 20px;
+
+}
+
+.kontakt-formular {
+    margin-top: 10 px;
+    padding: 300px;
+  }
+  /* 
+  input[type="text"] :focus{
+  
+    width: 300px;
+    margin: 20px 0;
+    background: darkkhaki;
+    border: 1px solid #555;
+  
+  
+  }
+  
+  
+  
+  input[type="text"]{
+  display: inline;
+    width: 300px;
+    margin: 20px 0;
+    background: darkkhaki;
+    border: 1px solid #555;
+  
+  
+  }
+  
+  
+  
+  
+  input[type="submit"] { width: 150px;}
+  button[type="submit"]:hover { background: darkorange;}
+  input[type="text"]:focus{ background: grey;} */
+  
+  label{
+    display: block;
+    margin-top: 10px;
+  }
+  
+  span{
+  
+    display: block;
+    margin: 10px 0 0 0;
+  }
+  
+  .gender,
+  .technologien
+  {
+    display: inline-block;
+  }
+  
+  .btns{
+    margin: 20px 0 0 0 ;
+  }
+  
+  button{
+    padding: 10px 5px;
+    width: 150px;
+  border: none;
+  background-color: grey;
+  color: honeydew;
+  font-weight: 900;
+  font-size: 1rem;
+  border-radius: 5px;
+  }
+  
